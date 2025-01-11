@@ -1,0 +1,19 @@
+.options {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.reset {
+  background-color: #ff4c4c;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-weight: bold;
+}
